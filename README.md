@@ -455,7 +455,7 @@ E.g. `HW3MediumCore0`, `HW3MediumCore1`, `HW3MediumCore2`, and `HW3MediumCore3`.
 Like your submission, your grade is split into two parts.
 
 1. Reproducibility Package (50 points):50
-    1. Instruction and automation to run simulations for different section and dump statistics (20 points)
+    1. Instruction and automation to run simulations for different section and dump statistics (10 points)
         - Instructions (5 points)
         - Automation (5 points)
     2. Configuration scripts and correct simulation setup (40 points): 10 points for configuration script(s) used to run your simulations and 5 points for implementing each of the 6 processor models as described in [Analysis and simulation: Step I](#step-i-performance-comparison), and [Analysis and simulation: Step II](#step-ii-medium-core).
